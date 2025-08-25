@@ -1,5 +1,5 @@
 title: "Portfolio"  
 description: "тестовый сайт" 
-theme: jekyll-theme-architect
+remote_theme: pages-themes/dinky@v0.2.0
 author: 
   name: "Olga"
